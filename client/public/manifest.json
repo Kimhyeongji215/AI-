@@ -1,0 +1,8 @@
+{
+  "short_name": "모의시험",
+  "name": "AI 모의시험 생성기",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
